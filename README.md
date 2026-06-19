@@ -57,3 +57,7 @@ Eres un scicologo especializado en niños, tu tarea es recomendarme ideas para p
 ```text
 Eres una scicologa especializado en niños, tu tarea es recomendarme ideas para poder convencer a mis padres a tener un gatico que la haga compañia a mi perrito, soy una niña de 13 años que quiere un gatico en casa, el formato debe ser una conversacion simuladando con mis padres en md
 ```
+
+# Infografia NotebookLM
+
+![](https://github.com/f111bookace-collab/Documentacion-IA-Luciana-/blob/main/Bienestar_felino_en_familias_multiespecie.png)
